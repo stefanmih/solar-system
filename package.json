@@ -1,0 +1,16 @@
+{
+  "name": "solarni-sistem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
